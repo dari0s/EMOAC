@@ -15,7 +15,7 @@ Las dependencias o librerias necesarias son:
 
 ```bash
 pip install pandas folium geopy shapely geopandas openpyxl
-
+```
 
 ⚠️ Importante: En Windows, la instalación de geopandas puede requerir tener GDAL o fiona correctamente configurados.
 
