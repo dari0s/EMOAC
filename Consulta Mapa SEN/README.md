@@ -1,3 +1,10 @@
+📁 Archivos requeridos
+
+placemarks.xlsx: archivo Excel con una columna llamada Coordenadas, en formato "longitud, latitud", y una columna Nombre.
+
+chile_geo.geojson: archivo GeoJSON que contiene el contorno del territorio nacional de Chile (MultiPolygon o Polygon).
+
+
 | Función                            | Descripción                                                         | Detalles técnicos                                           |
 | ---------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------- |
 | `extraer_coordenadas()`            | Convierte una cadena `"lon, lat"` a coordenadas (latitud, longitud) | Corrige signos para asegurar que los valores estén en Chile |
