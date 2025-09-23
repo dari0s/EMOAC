@@ -49,3 +49,7 @@ python mapa_subestaciones.py
 | `folium.Marker()`                  | Agrega marcadores al mapa                                           | Representa subestaciones, puntos de usuario, etiquetas      |
 | `folium.PolyLine()`                | Dibuja líneas entre puntos seleccionados                            | Usa colores para diferenciar conexiones                     |
 | `mapa.fit_bounds()`                | Ajusta la vista del mapa a los puntos relevantes                    | Se usa para enfocar el área de interés                      |
+
+---
+
+https://python-visualization.github.io/folium/latest/user_guide/ui_elements/icons.html
