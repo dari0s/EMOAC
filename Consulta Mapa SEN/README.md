@@ -34,7 +34,7 @@ Ejecuta el script principal en la terminal:
 
 ```bash
 python mapa_subestaciones.py
-
+```
 --- 
 
 ## 🚀 Funciones Principales
