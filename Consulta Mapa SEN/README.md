@@ -1,4 +1,4 @@
-# 🗺️ Mapa SEN Consulta [EMOAC]
+# 🗺️ Mapa SEN Consulta
 
 El presente script muestra de forma interactiva elementos del SEN bajo el siguiente menú de opciones.
 
