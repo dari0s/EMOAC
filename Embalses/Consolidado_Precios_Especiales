@@ -1,0 +1,27 @@
+##### -- -
+# Pasar a Jupyter
+# 
+#  Librerias 
+
+import os
+import os.path as path
+import pandas as pd
+import numpy as np
+import datetime
+import itertools
+
+# Rutas
+
+user_r = "C:\Users\DaríoCreadoFigueroa"
+ruta_proformas= "r"+ user_r + "/" + "\OneDrive - COPEC EMOAC SPA\ÁREA COMERCIALIZACIÓN Y MODELOS\Datos y Automatización\Python\Spot Solar\Empalmes Spot Solar Ponderado.xlsx"
+
+
+# df
+
+
+# Filtros
+
+
+# Consolidado
+
+
